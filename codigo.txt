@@ -5,6 +5,7 @@ outra linha 2
 mais uma linha
 aqui começa o texto:
 alterei aqui work2
+mais uma linha work2
 
 
 Uma linha intrusa
