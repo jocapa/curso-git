@@ -3,6 +3,7 @@ outra linha
 segunda linha
 outra linha 2
 mais uma linha
+so para testar conflitos
 
 um texto maior vai vir aqui
 veja so
