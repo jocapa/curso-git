@@ -2,6 +2,7 @@ Teste
 outra linha
 segunda linha
 outra linha 2
+outra linha diferente
 mais uma linha
 so para testar conflitos
 
