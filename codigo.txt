@@ -13,4 +13,8 @@ Uma linha intrusa
 
 um texto maior vai vir aqui
 veja so
+Once a user has sent you their public key and you have added them as
+    specified above and given them access, you have to tell them what URL to
+    access their repos at.  This is usually 'git clone git@host:reponame'; see
+    man git-clone for other forms.
 
