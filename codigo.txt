@@ -3,6 +3,7 @@ outra linha
 segunda linha
 outra linha 2
 mais uma linha
+aqui começa o texto:
 
 
 Uma linha intrusa
